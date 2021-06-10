@@ -3,6 +3,8 @@
 
 **Imersao_Dados 3_Alura Mai21**
 
+TRABALHO REALIZADO QUANDO DO APRENDIZADO DAS TÉCNICAS DE ANÁLISE DE DADOS.
+
 Projeto de Data Science com Análise Exploratória de dados e proposta de um modelo de Machine Learning.
 Projeto ALURA inspirado em base de dados do 'Laboratory Innovation Science at Harvard', dados disponibilizados no kaggle.
 
